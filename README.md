@@ -178,6 +178,10 @@ const pmVueLib2 = (options) => {
 export default pmVueLib2;
 ```
 
+## 组件位置
+
+统一将组件放在`common`文件下
+
 ## 构建库
 ```shell
 npm run lib
@@ -199,3 +203,5 @@ npm install
 ```shell
 npm run lib
 ```
+
+
