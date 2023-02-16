@@ -182,3 +182,20 @@ export default pmVueLib2;
 ```shell
 npm run lib
 ```
+
+[github地址](https://github.com/hangjob/ui-coms)
+
+
+# 使用此仓库开发
+1.下载此项目代码, 在根目录执行
+```shell
+npm install 
+```
+2.进入`vue2目录`,然后执行
+```shell
+npm install
+```
+3.在根目录执行
+```shell
+npm run lib
+```
